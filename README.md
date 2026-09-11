@@ -5,8 +5,8 @@
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/danimbarreiro/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/danimbarreiro/" target="_blank" style="text-decoration: none; outline: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" style="border: none;"/>
   </a>&nbsp;
   <a href="mailto:danimbarreiro@hotmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png" width="40" height="40" alt="Outlook"/>
@@ -19,7 +19,7 @@
 ## 
 
 ```ruby
-danizzi@hogwarts ─────────────────────────────────────────
+danizzi@hogwarts ────────────────────────────────────────
 Uptime:.................................. 25 years online
 Host:................................................ 171
 Kernel:................................ CF - Coffee First
@@ -31,7 +31,7 @@ Languages.Real:............. Portuguese, English, Spanish
 
 Hobbies.Software:...................... Minecraft Modding
 
-- GitHub Stats ───────────────────────────────────────────
+- GitHub Stats ──────────────────────────────────────────
 Repos:....... 2 {Contributed: 1} | Stars:.............. 0
 Followers:... 1 (my mother)      | Commits:............ 2                   
 Lines of Code on GitHub:.............................. 21
