@@ -8,8 +8,8 @@
   <a href="https://www.linkedin.com/in/danimbarreiro/" target="_blank" style="text-decoration: none; outline: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" style="border: none;"/>
   </a>&nbsp;
-  <a href="mailto:danimbarreiro@hotmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png" width="40" height="40" alt="Outlook"/>
+  <a href="mailto:danimbarreiro@hotmail.com" target="_blank" style="text-decoration: none; outline: none;">
+    <img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png" width="40" height="40" alt="Outlook" style="border: none;"/>
   </a>
 </p>
 
