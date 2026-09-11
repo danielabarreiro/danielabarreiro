@@ -4,14 +4,20 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=9966cc&height=180&section=header&text=Daniela%20Barreiro&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" alt="Header Daniela Barreiro"/>
 </p>
 
-<p>
-  <a href="https://www.linkedin.com/in/danimbarreiro/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" height="40" alt="LinkedIn"/>
-  </a>&nbsp;
-  <a href="mailto:danimbarreiro@hotmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png" width="40" height="40" alt="Outlook"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/danimbarreiro/" target="_blank">
+        <img src="https://img.icons8.com/color/48/linkedin.png" width="40" height="40" alt="LinkedIn"/>
+      </a>
+    </td>
+    <td>
+      <a href="mailto:danimbarreiro@hotmail.com" target="_blank">
+        <img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png" width="40" height="40" alt="Outlook"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p>
   <img src="https://github.com/user-attachments/assets/74b164f1-5ae0-4913-a7ad-553b359441b2" width="200" alt="Coding gif">
