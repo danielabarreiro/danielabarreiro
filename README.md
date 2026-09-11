@@ -36,13 +36,4 @@ Lines of Code on GitHub:.............................. 21
 
 ## 
 
-<p>
-<a href="[https://open.spotify.com/playlist/0yyQzAEVglyYicaDFaTzUZ?si=05f9ec4c37334d78](https://open.spotify.com/playlist/0y6FIyL5YeT1z1dgfBbNxC?si=7a4e51501fac4f64)">
-<strong>Click and enjoy!</strong>
-<br />
-<br />
-<p>
-<img height="175" alt="Music" src="https://github.com/user-attachments/assets/62eb671c-704a-44f7-8524-1262699b550e"> 
-</a>
-</p>
-</p>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
