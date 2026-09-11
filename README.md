@@ -36,4 +36,5 @@ Lines of Code on GitHub:.............................. 21
 
 ## 
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="daniela-barreiro-426b27213" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pt.linkedin.com/in/daniela-barreiro-426b27213?trk=profile-badge">Daniela Barreiro</a></div>
+              
